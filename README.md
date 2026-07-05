@@ -17,27 +17,6 @@
     <img src="https://img.shields.io/github/v/release/zama-ai/fhevm?style=flat-square"></a>
   <a href="https://github.com/zama-ai/fhevm/blob/main/LICENSE">
     <!-- markdown-link-check-disable-next-line -->
-    <img src="https://img.shields.io/badge/License-BSD--3--Clause--Clear-%23ffb243?style=flat-square"></a>
-  <a href="https://github.com/zama-ai/bounty-program">
-    <!-- markdown-link-check-disable-next-line -->
-    <img src="https://img.shields.io/badge/Contribute-Zama%20Bounty%20Program-%23ffd208?style=flat-square"></a>
-  <a href="https://slsa.dev"><img alt="SLSA 3" src="https://slsa.dev/images/gh-badge-level3.svg" /></a>
-</p>
-
-
-## About
-
-### What is FHEVM?
-
-**FHEVM** is the core framework of the *Zama Confidential Blockchain Protocol*. It enables confidential smart contracts on EVM-compatible blockchains by leveraging Fully Homomorphic Encryption (FHE), allowing encrypted data to be processed directly onchain.
-
-FHEVM ensures both confidentiality and composability, with the following guarantees:
-- **End-to-end encryption of transactions and state:** Data included in transactions is encrypted and never visible to anyone.
-- **Composability and data availability on-chain:** States are updated while remaining encrypted at all times.
-- **No impact on existing dApps and state:** Encrypted state co-exists alongside public one, and doesn't impact existing dApps.
-<br></br>
-
-### Table of contents
 
 - [About](#about)
   - [What is FHEVM?](#what-is-fhevm)
