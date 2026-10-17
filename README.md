@@ -1,25 +1,6 @@
-5
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [FAQ](#faq)
-- [Support](#support)
-  <br></br>
-### Project structure
-The directories of this repository are organized in the following way:
-
-###### FHEVM Contracts
-
-- **`gateway-contracts/`**: Smart contracts managing the gateway between on-chain and off-chain components.
-
-- **`host-contracts/`**: Smart Contracts deployed on the host chain for orchestrating FHE workflows.
-
-###### FHEVM Compute Engines
-
-- **`coprocessor/`**: Rust-based coprocessor implementation for FHE operations.
-
-- **`kms-connector/`**: Interface for integrating with Key Management Services (KMS) to handle encryption keys securely.
-
-###### FHEVM Utilities
+dfgh dfg 
+ dfg4h6dfg hd 
+  78fdg5 4h
 - **`charts/`**: Helm charts and deployment configurations for the stack.
 
 - **`golden-container-images/`**: Docker golden images for Node.js and Rust environments used as base images by the stack.
