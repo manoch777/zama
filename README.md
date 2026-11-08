@@ -1,6 +1,4 @@
-dfgh dfg 
- dfg4h6dfg hd 
-  78fdg5 4h
+12
 - **`charts/`**: Helm charts and deployment configurations for the stack.
 
 - **`golden-container-images/`**: Docker golden images for Node.js and Rust environments used as base images by the stack.
